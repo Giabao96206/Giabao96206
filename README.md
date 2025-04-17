@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GIA BẢO</h1>
 <h3 align="center">I want to be a FULLSTACK DEVELOPER in the Future</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giahuybao123zx&label=Profile%20views&color=0e75b6&style=flat" alt="giahuybao123zx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giabao96206&label=Profile%20views&color=0e75b6&style=flat" alt="giabao96206" /> </p>
 
 - 🌱 I’m currently learning **FrameWork of Javascript**
 
@@ -29,6 +29,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/giabao0906"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="giabao0906" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giahuybao123zx&show_icons=true&locale=en&layout=compact" alt="giahuybao123zx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giabao96206&show_icons=true&locale=en&layout=compact" alt="giabao96206" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giahuybao123zx&show_icons=true&locale=en" alt="giahuybao123zx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giabao96206&show_icons=true&locale=en" alt="giabao96206" /></p>
